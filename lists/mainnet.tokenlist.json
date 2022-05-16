@@ -1,0 +1,13 @@
+{
+  "name": "Everest Tokenlist",
+  "logoURI": "https://i.imgur.com/Mm0gPhL.png",
+  "keywords": [
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "timestamp": "2022-05-13T12:00:00+00:00",
+  "tokens": []
+}
