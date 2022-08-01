@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   },
   "keywords": [],
   "timestamp": "2022-05-13T00:00:00+00:00",
@@ -12,8 +12,8 @@
     {
       "address": "0xd92FB2844E76e455DfD0e20D46BCA2Cc77558B6e",
       "chainId": 552,
-      "name": "Wrapped ICY",
-      "symbol": "WICY",
+      "name": "Wrapped ICZ",
+      "symbol": "wICZ",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/FRUIJUV.png"
     },
