@@ -3,22 +3,14 @@
   "logoURI": "https://i.imgur.com/Mm0gPhL.png",
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "keywords": [],
   "timestamp": "2022-05-13T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0x9F9F2Ac260F6332113795e15A6F75Fa628A15E7f",
-      "chainId": 552,
-      "name": "Everest",
-      "symbol": "EVRS",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/Mm0gPhL.png"
-    },
-    {
-      "address": "0xDbd5b8C9cF1e13d6eba4Cf05868F9dc20e093FE1",
+      "address": "0xd92FB2844E76e455DfD0e20D46BCA2Cc77558B6e",
       "chainId": 552,
       "name": "Wrapped ICY",
       "symbol": "WICY",
@@ -26,7 +18,7 @@
       "logoURI": "https://i.imgur.com/FRUIJUV.png"
     },
     {
-      "address": "0x13E1fA5E5a823aC4e972e1859db546c1bC07d1B3",
+      "address": "0xE0A1967379fEB47966F4B315abc8d941C158F165",
       "chainId": 552,
       "name": "Equality",
       "symbol": "EQU",
@@ -34,7 +26,7 @@
       "logoURI": "https://i.imgur.com/hUIAxqW.png"
     },
     {
-      "address": "0x6321C30Bd1d112aCAa7781DF208a01cf922b1422",
+      "address": "0x1fAA9fD35b140EeDf9cd21AdFd70c47d70BDb063",
       "chainId": 552,
       "name": "Craft",
       "symbol": "CFT",
