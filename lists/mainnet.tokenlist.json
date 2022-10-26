@@ -2,8 +2,8 @@
   "name": "Everest Tokenlist",
   "logoURI": "https://i.imgur.com/Mm0gPhL.png",
   "version": {
-    "major": 0,
-    "minor": 1,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   },
   "keywords": [],
@@ -16,14 +16,6 @@
       "symbol": "wICZ",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/PfGiqqW.png"
-    },
-    {
-      "address": "0x854aBf0B0d09ED230015cD570015C2D4629eACf5",
-      "chainId": 552,
-      "name": "Everest bnUSD",
-      "symbol": "ebnUSD",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/iNPf3zn.png"
     }
   ]
 }
