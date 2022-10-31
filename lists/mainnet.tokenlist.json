@@ -3,11 +3,11 @@
   "logoURI": "https://i.imgur.com/Mm0gPhL.png",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "keywords": [],
-  "timestamp": "2022-10-18T00:00:00+00:00",
+  "timestamp": "2022-10-31T00:00:00+00:00",
   "tokens": [
     {
       "address": "0xd92FB2844E76e455DfD0e20D46BCA2Cc77558B6e",
@@ -16,6 +16,30 @@
       "symbol": "wICZ",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/PfGiqqW.png"
+    },
+    {
+      "address": "0x93ea705B67eD6bdbd4A72657Ea8c767f50E3Db9e",
+      "chainId": 552,
+      "name": "Balanced Dollars",
+      "symbol": "bnUSD",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/JsRVdqO.png"
+    },
+    {
+      "address": "0x9c93CeA18Ee49Ea279Be5832Dc389Bb9B8AFB7dC",
+      "chainId": 552,
+      "name": "Staked ICX",
+      "symbol": "sICX",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/ZTXxCuY.png"
+    },
+    {
+      "address": "0x1106e77ec895C5f246159e89f7d62F79898eF88d",
+      "chainId": 552,
+      "name": "ICON",
+      "symbol": "ICX",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/VP6zHAY.png"
     }
   ]
 }

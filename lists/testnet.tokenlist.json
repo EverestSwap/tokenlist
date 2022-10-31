@@ -3,11 +3,11 @@
   "logoURI": "https://i.imgur.com/Mm0gPhL.png",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "keywords": [],
-  "timestamp": "2022-05-13T00:00:00+00:00",
+  "timestamp": "2022-10-31T00:00:00+00:00",
   "tokens": [
     {
       "address": "0xd92FB2844E76e455DfD0e20D46BCA2Cc77558B6e",
